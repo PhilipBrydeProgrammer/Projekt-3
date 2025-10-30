@@ -1,6 +1,6 @@
 ﻿using System;
 
-abstract class Model
+public class Model
 {
 	string navn;
 	int id;

@@ -1,11 +1,11 @@
 ﻿using System;
 
-public class OOD :  
+interface class OOD : Model 
 {
-	
-	public Class1()
-	{
-		
-		
-	}
+    public Class1()
+    {
+
+
+    }
+
 }
